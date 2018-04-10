@@ -39,6 +39,7 @@ gem 'devise'
 gem 'pundit'
 
 gem 'bootstrap'
+gem 'jquery-rails'
 gem 'paperclip'
 
 group :development, :test do
